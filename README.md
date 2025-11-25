@@ -8,7 +8,7 @@ A **flexible 3d hex grid map generation system** for Unity that allows runtime a
 - Generate hex grids directly through the Unity Editor.
 - Individual hex cells can be removed or reshaped to match intended level layouts.
 - All hex cells, its coordinates-worldpositions and their neighbors are fully accessible via scripts, allowing custom logic and gameplay implementations.
-- Provide a 3D
+- Provide a hex prefab(HexCell) or use existing one in the project.
 - Works in both 2D and 3D projects.
 - Editor scripts included for efficient grid management.
 
