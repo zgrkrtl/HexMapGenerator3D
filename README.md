@@ -1,5 +1,5 @@
 # HexGridMapGenerator
-A **flexible 3d hex grid map generation system** for Unity that allows runtime and editor-based grid generation. Designed for modularity and ease of integration into custom game levels.
+A **flexible hex grid map generation system** for Unity that allows runtime and editor-based grid generation. Designed for modularity and ease of integration into custom game levels.
 
 ---
 
