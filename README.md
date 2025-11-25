@@ -35,3 +35,4 @@ This project is MIT licensed – free to use, modify, and distribute.
 
 ## Don't forget to install TMP for visual feedback of HexCell coordinates. (HexCell script should be attached to your or provided hexagon prefab with TMP attached to it)
 
+## Referenced hex grid system logic: https://www.redblobgames.com/grids/hexagons/
